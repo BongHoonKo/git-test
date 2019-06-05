@@ -16,7 +16,10 @@ br {
   margin-right: 5px;
 }
 .bad {
-  width: 100%;
+  width: 50%;
+}
+.gittest {
+  width:100%;
 }
 
 .good {
