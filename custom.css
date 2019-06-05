@@ -12,8 +12,11 @@ br {
 .logo-img {
   width: 105px;
   height: auto;
-  float: left;
+  float: right;
   margin-right: 5px;
+}
+.bad {
+  width: 100%;
 }
 
 /* Nav Bar */
